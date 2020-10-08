@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.0</version>
-    <url>https://drive.google.com/uc?export=download&amp;id=1olQz5jjANo7EOwMWgj5MWiKbvLx3q9pf</url>
+    <url>https://drive.google.com/uc?export=download%26id=1olQz5jjANo7EOwMWgj5MWiKbvLx3q9pf</url>
     <changelog>I'm a 5head</changelog>
     <mandatory>false</mandatory>
 </item>
